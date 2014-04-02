@@ -12,6 +12,6 @@ package iter
 // ... will print 0 to 9, inclusive.
 //
 // It does not cause any allocations.
-func N(n int) []struct{} {
+func M(n int) []struct{} {
 	return make([]struct{}, n)
 }
