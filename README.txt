@@ -1,3 +1,3 @@
 See http://godoc.org/github.com/bradfitz/iter
 
-Nice package
+Best ever. Most incredible package in history.
